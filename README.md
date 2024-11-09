@@ -1,6 +1,5 @@
-# Flipkart-Sales-Analysis
-
 **Flipkart Sales Analysis Project Summary**
+![logo](https://github.com/rachit7217/Flipkart-Sales-Analysis/blob/main/Dashboard%205%20Flipkart%20sales%20.png)
 
 ### Flipkart Sales Analysis Project using Excel, SQL, and Power BI
 
